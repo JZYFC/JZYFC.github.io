@@ -6,7 +6,8 @@ date: 2021-9-10 21:03:11
 ## 第一部分：手撸你的第一个Java程序  
 
 ### 1. 配置 Java 运行环境  
-使用 [AdoptOpenJdk](https://adoptopenjdk.net/) 选择 OpenJdk16 HotSpot 版本  
+使用 [AdoptOpenJdk](https://adoptopenjdk.net/)  
+选择 OpenJdk16 HotSpot 版本  
 
 ### 2. Java 的基础语法与数据类型
 略
